@@ -16,5 +16,6 @@ Use the run.sh shell script to run this python script multiple times and convert
 
 ## run.sh
 
-Bruk dette scriptet for å lage 40 trær og sett sammen til en kollasj
+Use the run.sh shell script to run the python script 40 times, convert each file to .png and create a bigger collage in the end.
 
+    ./run.sh foldername
