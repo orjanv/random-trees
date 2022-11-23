@@ -19,3 +19,5 @@ Use the run.sh shell script to run this python script multiple times and convert
 Use the run.sh shell script to run the python script 40 times, convert each file to .png and create a bigger collage in the end.
 
     ./run.sh foldername
+
+![40 example trees drawn with turtle](example.jpg "40 example trees drawn with turtle")
